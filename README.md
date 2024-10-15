@@ -19,15 +19,6 @@ O CSS estiliza o formulário, centralizando-o na tela e aplicando um design simp
 form.js
 O JavaScript gerencia a interação do usuário, incluindo a validação dos campos e a exibição das informações.
 
-Como Executar
-Clone o repositório:
-
-bash
-Copiar código
-git clone https://github.com/seu-usuario/capturar-email.git
-cd capturar-email
-Abra o arquivo index.html em um navegador de sua escolha.
-
 Insira seu email e nome nos campos fornecidos e clique em "Enviar".
 
 Estilos

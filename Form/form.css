@@ -1,0 +1,39 @@
+body {
+    display: flex;            /* Define Flexbox no body */
+    justify-content: center;   /* Centraliza horizontalmente */
+    align-items: center;       /* Centraliza verticalmente */
+    height: 100vh;             /* 100% da altura da tela */
+    margin: 0;                 /* Remove margens padrão */
+    background-color: bisque;
+}
+
+.formm {
+    width: 400px;
+    height: 200px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+button{
+    margin: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+button:hover{
+    color:blue;
+    background-color: black;
+}
+input{
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+
+label{
+font-size: 20px;
+}
